@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "635216470603",
+    "firebase_url": "https://fir-comment-and-post-tut.firebaseio.com",
+    "project_id": "fir-comment-and-post-tut",
+    "storage_bucket": "fir-comment-and-post-tut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635216470603:android:44b3b2e5a94eeda4",
+        "android_client_info": {
+          "package_name": "com.fire.fire.postandcommenttutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635216470603-t4jl5ogm22rcsgfpujo3oism3dt8feer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASKw4OYx0P7NyP7KFQr7eiS_XPVSy1oFA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635216470603-t4jl5ogm22rcsgfpujo3oism3dt8feer.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

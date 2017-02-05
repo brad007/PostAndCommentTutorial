@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Post And Comment Tutorial</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="loading">Loading...</string>
+    <string name="web_client_id">635216470603-t4jl5ogm22rcsgfpujo3oism3dt8feer.apps.googleusercontent.com</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
